@@ -5,6 +5,8 @@ Nome jogo: Jokenpô
 
 
 from random import randint
+
+
 cores = {'term':'\033[m', 
         'azul': '\033[34m',
         'branco': '\033[30m',
